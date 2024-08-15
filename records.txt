@@ -1,0 +1,11 @@
+
+ ___________XYZ airlines__________
+___________ticket________________
+ _________________________________
+ Customer ID:0
+ Customer Name:
+ Customer Gender:
+ Customer Phone:1875947840
+ 	 Description:
+ Destination: 		
+ Flight cost:		0

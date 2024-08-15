@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723481419 source:c:\users\hp_pc\desktop\tps\projets\airline reservation\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+
